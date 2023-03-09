@@ -1,2 +1,1 @@
-#!/bin/bash
-alx-devops
+system devops
